@@ -4,3 +4,13 @@
 gh_output.txt
 gh_output_utf8.txt
 ghcode.txt
+
+# Local development
+.vscode/
+.idea/
+*.log
+node_modules/
+dist/
+build/
+.env
+.env.local
