@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sadaf-portfolio.vercel.app/index.xml
