@@ -1,0 +1,6 @@
+.DS_Store
+.gemini/
+/tmp/
+gh_output.txt
+gh_output_utf8.txt
+ghcode.txt
