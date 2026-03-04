@@ -1,12 +1,20 @@
 # Sadaf Rahimi — Beauty Marketing Portfolio
 
+[![Deployment Status](https://img.shields.io/badge/Status-Deployment%20Ready-brightgreen)](https://sadaf-portfolio.vercel.app)
+
 A premium, highly-aesthetic marketing portfolio showcasing expertise in social media, content creation, and brand strategy within the beauty and lifestyle industries.
 
 ## ✨ Features
 - **Modern Aesthetic**: Pink-glowing, luxury-inspired design with buttery-smooth animations.
 - **Dynamic Content**: Interactive project cards, video reels, and custom scroll effects.
 - **Responsive Design**: Fully-optimized for mobile and desktop screens.
-- **Tech Stack**: Built with semantic HTML5, Vanilla CSS3 (Custom Properties), and Modern JavaScript (ScrollReveal/GSAP concepts).
+- **Tech Stack**: Built with semantic HTML5, Vanilla CSS3, and modern JavaScript.
+
+## 🏗️ Project Structure
+- `index.html`: Core structure and SEO.
+- `style.css`: Custom design system and animations.
+- `script.js`: Interactive elements and scroll behavior.
+- `/images`: Portfolio assets and reels.
 
 ## 🚀 Deployment
 This project is ready to be deployed on **Vercel** or **GitHub Pages**.
