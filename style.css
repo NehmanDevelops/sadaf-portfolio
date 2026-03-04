@@ -4,6 +4,12 @@
    ======================================== */
 
 /* --- CSS Custom Properties --- */
+/* 
+  Sadaf Rahimi Portfolio - Beauty Minimalist Design System
+  Typography: Playfair Display, Inter, Cormorant Garamond
+  Palette: Soft Pinks (#fcf1f5), Rose Golds, and Deep Greys
+*/
+
 :root {
     --bg-primary: #1a1119;
     --bg-secondary: #221820;
